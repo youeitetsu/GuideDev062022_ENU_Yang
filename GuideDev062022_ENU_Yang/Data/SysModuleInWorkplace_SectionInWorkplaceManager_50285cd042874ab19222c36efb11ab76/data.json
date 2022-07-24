@@ -1,0 +1,48 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "50285cd0-4287-4ab1-9222-c36efb11ab76"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "7196040b-b04c-4c3d-b04d-72d814997f19",
+          "DisplayValue": "Sales"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "51a1e478-7cec-4439-9e74-751418dceb32",
+          "DisplayValue": "Realty"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 0
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "93c6a8cb-224b-4fb4-9698-331a166873ad"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "7196040b-b04c-4c3d-b04d-72d814997f19",
+          "DisplayValue": "Sales"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "0c5063c9-8180-e011-afbc-00155d04320c",
+          "DisplayValue": "Dashboards"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 1
+        }
+      ]
+    }
+  ]
+}
