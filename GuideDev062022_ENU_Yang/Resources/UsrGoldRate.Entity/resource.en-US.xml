@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Gold Rate" />
+			<Item Name="Columns.UsrRate.Caption" Value="Rate, AMD" />
+			<Item Name="Columns.UsrWeight.Caption" Value="Weight, g" />
+		</Items>
+	</Group>
+</Resources>

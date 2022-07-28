@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "63be0f75-2f9f-4f6a-a953-6e8db7be2a72",
+    "Name": "UsrGetRateItemSubprocess",
+    "ModifiedOnUtc": "\/Date(1658939416000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Get Rate Item Subprocess",
+    "DependsOn": []
+  }
+}

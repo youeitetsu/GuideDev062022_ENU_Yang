@@ -1,14 +1,14 @@
 ﻿{
   "Descriptor": {
-    "UId": "86b05774-5fa3-4ad2-aad5-36000ace69cd",
-    "Name": "UsrRealty",
-    "ModifiedOnUtc": "\/Date(1659012289000)\/",
+    "UId": "af652298-f04d-4988-a10e-20f22ebc82c2",
+    "Name": "UsrGoldRate",
+    "ModifiedOnUtc": "\/Date(1658938465000)\/",
     "Parent": {
       "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
       "Name": "BaseEntity"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "Realty",
+    "Caption": "Gold Rate",
     "DependsOn": []
   }
 }
