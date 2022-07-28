@@ -73,6 +73,28 @@ define("UsrRealty1Page", ["RightUtilities","ServiceHelper"], function(RightUtili
 							}
 						}
 					]
+				},
+				"4d4b2b2c-9aa9-495d-a852-917c4a7bf929": {
+					"uId": "4d4b2b2c-9aa9-495d-a852-917c4a7bf929",
+					"enabled": true,
+					"removed": false,
+					"ruleType": 0,
+					"property": 2,
+					"logical": 0,
+					"conditions": [
+						{
+							"comparisonType": 5,
+							"leftExpression": {
+								"type": 0,
+								"value": 100000,
+								"dataValueType": 4
+							},
+							"rightExpression": {
+								"type": 1,
+								"attribute": "UsrPriceUSD"
+							}
+						}
+					]
 				}
 			},
 			"UsrManager": {
@@ -219,7 +241,7 @@ define("UsrRealty1Page", ["RightUtilities","ServiceHelper"], function(RightUtili
 				this.console.log("3");
 				this.Terrasoft.showInformation("Total amount by typeId: " + response.GetTotalAmountByTypeIdResult);
 			},
-			/** asyncValidate **/
+			/** asyncValidate */
 			asyncValidate: function(callback, scope) {
 				this.callParent([
 					function(response) {
@@ -289,7 +311,7 @@ define("UsrRealty1Page", ["RightUtilities","ServiceHelper"], function(RightUtili
 					}
 				}, this);
 			},
-			/** async */
+			/* async */
 		},
 		dataModels: /**SCHEMA_DATA_MODELS*/{}/**SCHEMA_DATA_MODELS*/,
 		diff: /**SCHEMA_DIFF*/[

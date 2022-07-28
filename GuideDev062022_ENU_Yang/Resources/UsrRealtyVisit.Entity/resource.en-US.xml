@@ -4,9 +4,10 @@
 		<Items>
 			<Item Name="Caption" Value="Realty visit" />
 			<Item Name="Columns.UsrComment.Caption" Value="Comment" />
+			<Item Name="Columns.UsrOwner.Caption" Value="Owner" />
 			<Item Name="Columns.UsrParentRealty.Caption" Value="ParentRealty" />
 			<Item Name="Columns.UsrPotentialCustomer.Caption" Value="Potential customer" />
-			<Item Name="Columns.UsrVisitDatetime.Caption" Value="Visit Date/Time" />
+			<Item Name="Columns.UsrVisitDatetime.Caption" Value="Visit Date-Time" />
 		</Items>
 	</Group>
 </Resources>

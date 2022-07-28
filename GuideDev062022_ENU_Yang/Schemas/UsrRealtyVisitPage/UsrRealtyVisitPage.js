@@ -33,8 +33,8 @@ define("UsrRealtyVisitPage", [], function() {
 					"layout": {
 						"colSpan": 12,
 						"rowSpan": 1,
-						"column": 12,
-						"row": 0,
+						"column": 0,
+						"row": 1,
 						"layoutName": "Header"
 					},
 					"bindTo": "UsrPotentialCustomer",
@@ -53,7 +53,7 @@ define("UsrRealtyVisitPage", [], function() {
 						"colSpan": 24,
 						"rowSpan": 1,
 						"column": 0,
-						"row": 1,
+						"row": 3,
 						"layoutName": "Header"
 					},
 					"bindTo": "UsrComment",
@@ -62,6 +62,25 @@ define("UsrRealtyVisitPage", [], function() {
 				"parentName": "Header",
 				"propertyName": "items",
 				"index": 2
+			},
+			{
+				"operation": "insert",
+				"name": "LOOKUPc83c1f7f-7184-41fe-8318-f67981fee8dc",
+				"values": {
+					"layout": {
+						"colSpan": 12,
+						"rowSpan": 1,
+						"column": 0,
+						"row": 2,
+						"layoutName": "Header"
+					},
+					"bindTo": "UsrOwner",
+					"enabled": true,
+					"contentType": 5
+				},
+				"parentName": "Header",
+				"propertyName": "items",
+				"index": 3
 			}
 		]/**SCHEMA_DIFF*/
 	};
